@@ -1,7 +1,7 @@
 # http://module-build.sourceforge.net/META-spec.html
 #
 name:         URI-ftpes
-version:      1.0
+version:      0.02
 version_from: ftpes.pm
 installdirs:  site
 requires:
